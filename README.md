@@ -467,7 +467,7 @@ pyuic5 -x SignRecognition.ui -o SignRecognition_UI.py
 
 ## 📧 联系方式
 
-获取完整代码，欢迎联系:2122384040
+##  所有项目均有偿分享，需要完整项目代码请联系qq：2122384040。
 
 ⭐ 如果这个项目对你有帮助，请给一个Star！
 <img width="1260" height="1014" alt="image" src="https://github.com/user-attachments/assets/20e5a62b-c032-4813-bdd9-b874ced22ebc" />
